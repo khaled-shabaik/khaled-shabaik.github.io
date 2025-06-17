@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+# title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "khaled-shabaik/khaled-shabaik.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Khaled Ashraf"
+  pronouns         : # example: "he/his"  
+#  bio              : "Short biography for the left-hand sidebar"
+#  location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
