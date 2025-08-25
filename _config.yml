@@ -1,5 +1,5 @@
 title: "Your Name"
 description: "Your personal academic homepage"
 baseurl: "" # for user/organization site
-url: "https://khaled-shabaik.github.io"
+url: https://khaled-shabaik.github.io
 theme: "minimal-mistakes-jekyll"
