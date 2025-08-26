@@ -2,4 +2,4 @@ title: "Your Name"
 description: "Your personal academic homepage"
 baseurl: "" # for user/organization site
 url: "khaled-shabaik.github.io"
-theme: "minimal-mistakes-jekyll"
+remote_theme: "minimal-mistakes-jekyll"
