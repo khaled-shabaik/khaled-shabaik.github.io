@@ -9,9 +9,7 @@ title: "Resume"
 
 ### Professional Summary
 
-Software QA Engineer with over 8 years of experience in delivering high-quality Web, Mobile,
-and API solutions across diverse domains including Stock Brokerage and Trading Services,
-and currently focusing on Blockchain technology and Decentralized finance applications (DeFi).
+Software QA Engineer with over 8 years of experience in delivering high-quality Web, Mobile, and API solutions across diverse domains including Stock Brokerage and Trading Services, and currently focusing on Blockchain technology and Decentralized finance applications (DeFi).
 
 ---
 
