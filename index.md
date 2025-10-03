@@ -4,8 +4,3 @@
 layout: single
 author_profile: true
 ---
-
-I am **PhD student** Biology at Univerity of Maryland College Park. My research interests are in the area of cell dynamics. My main projects are:
-- Project 1
-- Project 2
-- Project 3
