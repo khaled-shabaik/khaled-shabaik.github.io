@@ -1,0 +1,11 @@
+/* Widen the main content container */
+.wrapper, .container, .page-content, .site-container {
+  max-width: 1400px;    // Or 1200px, or use 90vw for 90% of viewport width
+  width: 90vw;          // Makes it responsive up to 90% of viewport
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;   // Reduce left padding if too much empty space
+  padding-right: 1rem;  // Reduce right padding
+}
+
+/* Optional: For even less padding, use smaller values or remove altogether */
